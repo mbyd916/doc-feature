@@ -21,12 +21,12 @@
 - sg: 指定训练算法，1 表示 "skip-gram"，0 表示 " CBOW"
 
 3. 使用示例
-  1) 设置 locale ，在终端正确输入中文字符， ```export LANG=zh_CN.UTF-8```
+   1) 设置 locale ，在终端正确输入中文字符， ```export LANG=zh_CN.UTF-8```
 
-  2) 载入 word2vec 模型
+   2) 载入 word2vec 模型
      ![载入模型](example_imgs/0.png)
      
-  3) 示例
+   3) 示例
      ![示例1](example_imgs/1.png)
      
      ![示例2](example_imgs/2.png)
